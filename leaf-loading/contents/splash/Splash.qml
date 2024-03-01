@@ -11,6 +11,6 @@
             id: neo
             source: "images/leaf-loading.gif"
            anchors.fill: parent
-           fillMode: Image.AspectFit
+           fillMode: Image.Stretch
         }
     }
